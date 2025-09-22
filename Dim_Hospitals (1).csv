@@ -1,0 +1,18 @@
+HospitalID,HospitalName,State,PeerGroup,Beds
+H001,Royal Melbourne Hospital,VIC,Public Tertiary,650
+H002,Austin Hospital,VIC,Public Tertiary,500
+H003,Ballarat Base Hospital,VIC,Public Regional,400
+H004,Epworth Richmond,VIC,Private,700
+H005,Cabrini Malvern,VIC,Private,508
+H006,St John of God Ballarat,VIC,Private,187
+H007,Royal Prince Alfred Hospital,NSW,Public Tertiary,900
+H008,Westmead Hospital,NSW,Public Tertiary,980
+H009,St Vincent’s Private Sydney,NSW,Private,270
+H010,Princess Alexandra Hospital,QLD,Public Tertiary,780
+H011,Greenslopes Private Hospital,QLD,Private,650
+H012,Fiona Stanley Hospital,WA,Public Tertiary,783
+H013,Hollywood Private Hospital,WA,Private,900
+H014,Royal Adelaide Hospital,SA,Public Tertiary,800
+H015,Royal Hobart Hospital,TAS,Public Tertiary,470
+H016,Canberra Hospital,ACT,Public Tertiary,600
+H017,Royal Darwin Hospital,NT,Public Tertiary,360
